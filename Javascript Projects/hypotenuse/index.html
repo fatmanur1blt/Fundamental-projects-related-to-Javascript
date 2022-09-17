@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="hypotenuse">
+    <title>Calculating the hypotenuse </title>
+</head>
+<link rel="stylesheet" href="style.css"/>
+<body>
+   
+    <h1>What Is The Hypotenuse ?</h1><br>
+    <p id="p1">In geometry, a hypotenuse, right-angled triangle, the side opposite the right angle. 
+        The length of the hypotenuse can be found using the Pythagorean theorem, 
+        which states that the square of the length of the hypotenuse equals 
+        the sum of the squares of the lengths of the other two sides.</p><br/>
+       <div id="crd1" class="card">
+        <img src="hypotenuse.png" id="angle" width=30%/>
+        <img src="pythagorean.png" id="pyt" width=20%/>
+       </div>
+        
+        <div id="crd" class="card">
+            <div class="card-body">
+                <input type="number" class="form-control mb-2" id="one" placeholder="A ANGLE"><br/><br/>
+                <input type="number" class="form-control mb-2" id="two" placeholder="B ANGLE"><br/><br/>
+                <button class="btn btn-success mb-2" id="button" onclick="calculate_hypotenuse()">CALCULATE</button><br/><br/>
+                <h3 class="alert alert-success" id="result"></h3><br/>
+
+            </div>
+        </div>
+
+
+
+        <script src="app.js"></script>
+</body>
+</html>
