@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(236, 125, 125);
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif
+}
+h2{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+p{
+    margin: 12px;
+    padding: 3px;
+    text-align:center;
+    font-weight: bold;
+}
+#btn{
+    margin: 10px;
+    margin-left: 48%;
+    padding: 5px;
+    color: black;
+    border: solid 1px black;
+    background-color:rgb(199, 15, 15);
+    font-family: initial;
+}
+#result{
+    margin: 10px;
+    margin-left: 47%;
+}
