@@ -12,4 +12,4 @@ When the user enters the site, first of all, he will learn what the hypotenuse a
   <li><em>Find Day</em></li>
  </ul>
  
- 
+The purpose of this project is that when users press the button, this Program tells them what day it is that day. This can condition with the Switch-Case. First we need to write Html codes. After that, we need to write Css and JavaScript codes. The Switch-Case is very important for this program. We write in Javascript. We say a case on the Switch and then we write the Case's. With the *break;* experience, we should say out of the Case when the right condition is found.
