@@ -1,6 +1,6 @@
 # Fundamental projects related to Javascript
  Here you will see basics projects related to Javascript. <br><br>
-#### <b><em>PROJECT 1 ;</b></em>
+#### <b><i>PROJECT 1 ;</b></i>
 <ul>
   <li><em>Find Hypotenuse Angle</em></li>
  </ul>
