@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SINAV SONUCU SORGULAMA</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <header>
+        <div>
+            <h2>HOŞGELDİNİZ</h2>   
+            <p><strong>İlgili alanlara vize ve final notunuzu girerek geçme kalma durumunuzu sorgulayabilirsiniz.</strong></p>    
+        </div>
+    </header>
+    <main>
+        <div>
+            <input type="number" id="vize" placeholder="Vize Notu"><br><br>
+            <input type="number" id="final" placeholder="Final Notu"><br><br>
+            <button id="btn" class="btn btn-success mb-2" onclick="sorgula()">SORGULA</button><br><br>
+            <h3 id="sonuc"></h3>
+        </div>
+    </main>  
+    <script src="script.js"></script>
+</body>
+</html>
