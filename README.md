@@ -19,4 +19,4 @@ The purpose of this project is that when users press the button, this Program te
   <li><em>Exam-Result</em></li>
  </ul>
  
-In this project, Users enter the midterm result and final result. Then by clicking the button, they will see the pass or fail status. We query this through if-else structure in JavaScript.
+In this project, Users enter the midterm result and final result. Then by clicking the button, they will see the pass or fail status. We query this through <em>if-else </em> structure in JavaScript.
