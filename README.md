@@ -24,3 +24,5 @@ The purpose of this project is that when users press the button, this Program te
  </ul>
  
 In this project, Users enter the midterm result and final result. Then by clicking the button, they will see the pass or fail status. We query this through <em>if-else </em> structure in JavaScript.
+<br/><br/>
+<img src="./exam.png">
