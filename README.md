@@ -34,4 +34,12 @@ In this project, Users enter the midterm result and final result. Then by clicki
  
 In this project, it starts counting down from the date we specify in <em> Javascript </em>.
 <br/><br/>
-<img src="./countdown.png">
+<img src="./countdown.png"> <br/>
+#### <b><em>PROJECT 5 ;</b></em>
+<ul>
+  <li><em>Find Number The largest and the smallest</em></li>
+ </ul>
+ program that displays the largest and smallest number in a list. With the function we wrote by clicking the button under the list elements, when the button is pressed, we lost the button with the <em>display none feature </em> and printed the largest and smallest element in the list on the screen.
+<br/><br/>
+<img src="./findNumber1.png"> <br/>
+<img src="./findNumber2.png">
